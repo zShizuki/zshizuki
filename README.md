@@ -60,8 +60,13 @@ Sou um desenvolvedor apaixonado por tecnologia e design, com habilidades em **de
 ---
 
 ## 📫 Como me encontrar?
+<a href="mailto:gmziago8@gmail.com">
+  <img src="https://img.shields.io/badge/-gmziago8%40gmail.com-red?logo=gmail&logoColor=white&style=flat-square" height="25"/>
+</a>
 
-📧 [**Email para Contato:**](gmziago8@gmail.com)  
-🚀 [**Discord:**](https://discordapp.com/users/393817225821159445)
+<a href="https://discordapp.com/users/39381722582115945">
+  <img src="https://img.shields.io/badge/shine-blue?logo=discord&logoColor=white&style=flat-square" height="25"/>
+</a>
+
 
 ⚡ Vamos construir algo incrível juntos!
